@@ -66,7 +66,7 @@ rotate[2].addEventListener("mousedown", function(){
         uparrow[2].style.transition = "0.5s";
         uparrow[2].style.rotate = "180deg";
         if(flag[2] == 0){
-            let text = "<h3>Internships</h3> <p>hello world</p> <h3>Jobs</h3> <p>Fresher</p>";
+            let text = "<h3>Internships</h3> <p>Oasis Infobyte</p> <h3>Jobs</h3> <p>Fresher</p>";
             flag[2] = 1;
             rotate[2].style.borderBottom = "0px";
             detail[2].style.padding = "0% 0% 0% 3%";
@@ -79,7 +79,7 @@ rotate[2].addEventListener("mousedown", function(){
         a[2] = 0;
         uparrow[2].style.transition = "0.5s";
         uparrow[2].style.rotate = "0deg";
-        let text = "<h3>Internships</h3> <p>hello world</p> <h3>Jobs</h3> <p>Fresher</p>";
+        let text = "<h3>Internships</h3> <p>Oasis Infobyte<br>(Duration: Sep-Oct 2023)</p> <h3>Jobs</h3> <p>Fresher</p>";
         flag[2] = 0;
         rotate[2].style.borderBottom = "1px solid rgb(199, 199, 199)";
         detail[2].style.padding = "0%";
@@ -122,7 +122,7 @@ rotate[4].addEventListener("mousedown", function(){
         uparrow[4].style.transition = "0.5s";
         uparrow[4].style.rotate = "180deg";
         if(flag[4] == 0){
-            let text = "<h3>Certification in Frontend Development</h3> <p>Udemy Course</p> <h3>Certification in Data Base Management System</h3> <p>Associated with AKTU</p>";
+           let text = "<h3>Certification in Frontend Development</h3> <p>Udemy Course</p> <h3>Certification in Data Base Management System</h3> <p>Associated with AKTU</p> <h3>Certification in Python Language</h3> <p>Associated with AKTU</p> <h3>Certification in C Language</h3> <p>Associated with AKTU</p> <h3>Certification in Data Structure</h3> <p>Associated with AKTU</p>";
             flag[4] = 1;
             rotate[4].style.borderBottom = "0px";
             detail[4].style.padding = "0% 0% 0% 3%";
@@ -135,7 +135,7 @@ rotate[4].addEventListener("mousedown", function(){
         a[4] = 0;
         uparrow[4].style.transition = "0.5s";
         uparrow[4].style.rotate = "0deg";
-        let text = "<h3>Certification in Frontend Development</h3> <p>Udemy Course</p> <h3>Certification in Data Base Management System</h3> <p>Associated with AKTU</p>";
+        let text = "<h3>Certification in Frontend Development</h3> <p>Udemy Course</p> <h3>Certification in Data Base Management System</h3> <p>Associated with AKTU</p> <h3>Certification in Python Language</h3> <p>Associated with AKTU</p> <h3>Certification in C Language</h3> <p>Associated with AKTU</p> <h3>Certification in Data Structure</h3> <p>Associated with AKTU</p>";
         flag[4] = 0;
         rotate[4].style.borderBottom = "1px solid rgb(199, 199, 199)";
         detail[4].style.padding = "0%";
